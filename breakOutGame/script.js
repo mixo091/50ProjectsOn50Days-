@@ -47,7 +47,7 @@ CloseBtn.addEventListener('click',() => rules.classList.remove('show'));
       y:canvas.height - 20, 
       w:80,
       h: 10 ,
-      speed:8, 
+      speed:12, 
       dx :0
   }
 
