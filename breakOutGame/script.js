@@ -45,8 +45,8 @@ CloseBtn.addEventListener('click',() => rules.classList.remove('show'));
   const paddle = {
       x: canvas.width / 2 - 40,
       y:canvas.height - 20, 
-      w:160,
-      h: 6 ,
+      w:300,
+      h: 5 ,
       speed:14, 
       dx :0
   }
